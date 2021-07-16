@@ -5,7 +5,9 @@ import Typist from 'react-typist';
 const Words = [
   'Tuan',
   'Tony',
-  'Excited to work with you!',
+  'excited to work with you!',
+  'a developer',
+  'coffee depedent',
 ];
 
 const CommandLineBox = () => {

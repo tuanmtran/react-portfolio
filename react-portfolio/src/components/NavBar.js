@@ -6,18 +6,18 @@ export const NavbarPage = () => {
   };
   return (
     <Navbar bgColor="bg-black" textColor="text-white">
-      <NavbarBrand href="#">Navbar</NavbarBrand>
+      <NavbarBrand href="#">TT</NavbarBrand>
       <NavbarToggler toggle={toggle} />
       <NavbarCollapse open={open}>
         <NavbarNav position="left">
           <NavbarItem>
-            <NavbarLink href="#">Home</NavbarLink>
+            <NavbarLink href="#">About Me</NavbarLink>
           </NavbarItem>
           <NavbarItem>
-            <NavbarLink href="#">Documents</NavbarLink>
+            <NavbarLink href="#">Ongoing Projects</NavbarLink>
           </NavbarItem>
           <NavbarItem>
-            <NavbarLink href="#">React</NavbarLink>
+            <NavbarLink href="#">Past Projects</NavbarLink>
           </NavbarItem>
         </NavbarNav>
       </NavbarCollapse>

@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import CardPage from './Cards';
 import HeroSection from './Hero';
 import HobbiesBox from './Hobbies';
-import InterestsBox from './InterestSect';
+import AboutMe from './AboutMe';
 import { NavbarPage } from './NavBar';
-import OngoingBox from './Ongoing';
+import Current from './Current';
 import PastBox from './Past';
 
 class App extends Component {
@@ -13,8 +13,8 @@ class App extends Component {
             <div id="container">
                 <NavbarPage></NavbarPage>
                 <HeroSection></HeroSection>
-                <InterestsBox></InterestsBox>
-                <OngoingBox></OngoingBox>
+                <AboutMe></AboutMe>
+                <Current></Current>
                 <PastBox></PastBox>
                 <HobbiesBox></HobbiesBox>
             </div>
