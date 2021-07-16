@@ -5,14 +5,14 @@ class HeroSection extends React.Component {
   render() {
     return (
       
-      <div class="h-full items-center justify-center bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500">
+      <div class="font-sans text-4xl h-screen overflow-hidden relative flex flex-col justify-center items-center bg-gradient-to-t from-red-500 to-pink-400 text-white font-exo p-8">
         <p class = ""> Hello there, I'm
         </p> 
         <CommandLineBox></CommandLineBox>
-        <p class="flex flex-col"> Welcome to my website.
-        <a class="resume" href="">Check out my resume</a>
-        <a class="Links" href="https://github.com/tuanmtran"> GitHub </a>
-        <a class="Links" href="https://www.linkedin.com/in/tuan-m-tran/"> Linkedin</a>
+        <p class="flex flex-col text-3xl"> Welcome to my website.
+        <a class="text-3xl resume" href="">Check out my resume</a>
+        <a class="text-3xl Links" href="https://github.com/tuanmtran"> GitHub </a>
+        <a class="text-3xl Links" href="https://www.linkedin.com/in/tuan-m-tran/"> Linkedin</a>
         </p>
         
       </div>
