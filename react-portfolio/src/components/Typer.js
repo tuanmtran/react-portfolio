@@ -7,7 +7,7 @@ const Words = [
   'Tony',
   'excited to work with you!',
   'a developer',
-  'coffee depedent',
+  'coffee dependent',
 ];
 
 const CommandLineBox = () => {

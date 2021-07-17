@@ -22,6 +22,10 @@ module.exports = {
         'drawer-bottom': 'drawer-bottom 0.3s',
       },
       keyframes: {
+        fadeIn: {
+          "0": {opacity: 0},
+          "100%": {opacity: 1}
+        },
         // if you are using drawer variant right
         'drawer-right': {
           '0%, 100%': { right: '-500px' },
