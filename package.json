@@ -1,8 +1,8 @@
 {
-  "name": "react-portfolio",
   "homepage": "http://tuanmtran.github.io/react-portfolio",
+  "name": "react-portfolio",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@craco/craco": "^6.2.0",
     "@testing-library/jest-dom": "^5.14.1",
