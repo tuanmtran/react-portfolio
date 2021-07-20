@@ -19,6 +19,9 @@ export const NavbarPage = () => {
           <NavbarItem>
             <NavbarLink href="#">Past Projects</NavbarLink>
           </NavbarItem>
+          <NavbarItem>
+            <NavbarLink href="#">Hobbies</NavbarLink>
+          </NavbarItem>
         </NavbarNav>
       </NavbarCollapse>
     </Navbar>

@@ -7,6 +7,7 @@ module.exports = {
   theme: {
     extend: {
       animation: {
+        fadeIn:"fadeIN 2s ease-in forwards",
         // If you are using Toast component
         left: 'left 0.3s',
         right: 'right 0.3s',
@@ -63,6 +64,7 @@ module.exports = {
       },
     },
     variants: {
+      animation: ["motion-safe"],
       /* If you are using Collapse or Accordion component*/
       transitionProperty: {
         height: 'height',

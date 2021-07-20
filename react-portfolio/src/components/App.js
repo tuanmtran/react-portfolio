@@ -11,12 +11,17 @@ class App extends Component {
     render() {
         return(
             <div id="container">
-                <NavbarPage></NavbarPage>
-                <HeroSection></HeroSection>
-                <AboutMe></AboutMe>
-                <Current></Current>
-                <PastBox></PastBox>
-                <HobbiesBox></HobbiesBox>
+                <div class="sticky top-0 z-40">
+                    <NavbarPage></NavbarPage>
+                </div>
+
+                <div> 
+                    <HeroSection></HeroSection>
+                    <AboutMe></AboutMe>
+                    <Current></Current>
+                    <PastBox></PastBox>
+                    <HobbiesBox></HobbiesBox>
+                </div>
             </div>
         );
     }
