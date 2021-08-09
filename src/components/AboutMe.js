@@ -2,7 +2,7 @@ import React from 'react';
 class AboutMe extends React.Component {
     render() {
         return (
-            <div class="font-Times box-border h-screen w-sceen overflow-hidden">
+            <div id="AboutMe" class="font-Times box-border h-screen w-sceen overflow-hidden">
                 <h1 class="relative inset-x-1/4 top-16 text-6xl font-semibold">README.
                     <p class="animate-bounce relative inset-x-36 w-6 h-3 text-xl">^</p>
                     <p class=" relative inset-x-32 text-2xl font-semibold">abt</p>

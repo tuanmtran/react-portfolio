@@ -13,7 +13,7 @@ class HeroSection extends React.Component {
         </p>
         <div>
           <p class="flex flex-col text-3xl"> Welcome to my website.
-            <a class="text-3xl resume" href="">Check out my resume</a>
+            <a class="text-3xl resume" href="https://www.overleaf.com/read/mstxpshyyhjp">Check out my resume</a>
             <a class="text-3xl Links" href="https://github.com/tuanmtran"> GitHub </a>
             <a class="text-3xl Links" href="https://www.linkedin.com/in/tuan-m-tran/"> Linkedin</a>
           </p>
