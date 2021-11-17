@@ -6,7 +6,7 @@ class HeroSection extends React.Component {
       
       <div class="font-sans text-4xl h-screen overflow-hidden relative flex flex-col justify-center items-center bg-gradient-to-t from-red-500 to-pink-400 text-white font-exo p-8">
         <p class="Whitespace-pre"> Hello there, I'm 
-          <a href="" class="typewrite" data-period="1000" data-type='[ " Tuan", " Tony", " excited to work with you!", " coffee dependent", " a non-stack dev"]'>
+          <a href="" class="typewrite" data-period="1000" data-type='[ " Tuan", " Tony", " excited to work with you!", " coffee dependent", " a non-stack dev", " computer vision engineer"]'>
               <span class="wrap"></span>
           </a>
 
