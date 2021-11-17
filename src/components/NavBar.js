@@ -22,6 +22,9 @@ export const NavbarPage = () => {
           <NavbarItem>
             <NavbarLink href="#Hobbies">Hobbies</NavbarLink>
           </NavbarItem>
+          <NavbarItem>
+            <NavbarLink href="#Contact">Contact</NavbarLink>
+          </NavbarItem>
         </NavbarNav>
       </NavbarCollapse>
     </Navbar>

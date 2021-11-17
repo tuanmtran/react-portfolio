@@ -6,6 +6,7 @@ import AboutMe from './AboutMe';
 import { NavbarPage } from './NavBar';
 import Current from './Current';
 import PastBox from './Past';
+import Contact from './Contact';
 
 class App extends Component {
     render() {
@@ -21,6 +22,7 @@ class App extends Component {
                     <Current></Current>
                     <PastBox></PastBox>
                     <HobbiesBox></HobbiesBox>
+                    <Contact></Contact>
                 </div>
             </div>
         );
