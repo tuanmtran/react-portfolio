@@ -8,7 +8,7 @@ class AboutMe extends React.Component {
                     <p class=" relative inset-x-32 text-2xl font-semibold">abt</p>
                 </h1>
                 <div class="box-border h-1/3 w-1/2">
-                    <p class="relative inset-y-20 inset-x-1/2 flex-auto md:pr-16 md:pl-16">Hi! fancy of you to find this site. 
+                    <p class="relative inset-y-20 inset-x-1/2 flex-auto lg:pr-16 lg:pl-16">Hi! fancy of you to find this site. 
                 This is a little place where I like to showcase my works and projects, treat it as a personal vault if you will.
                 So walk around, click on things, and always hit me up!</p>
                 </div>

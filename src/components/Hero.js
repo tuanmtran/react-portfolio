@@ -4,19 +4,19 @@ class HeroSection extends React.Component {
   render() {
     return (
       
-      <div class="text-4xl h-screen overflow-hidden relative flex flex-col flex-wrap justify-center items-center bg-gradient-to-t from-red-500 to-pink-400 text-white font-exo p-8">
-        <p class="font-sans Whitespace-pre"> Hello There, </p>  
+      <div class="font-sans text-4xl h-screen overflow-hidden relative flex flex-col flex-wrap justify-center items-center bg-gradient-to-t from-red-500 to-pink-400 text-white font-exo p-16">
+        <p class="Whitespace-pre pb-6"> Hello There, </p>  
         
-        <p class="Whitespace-pre"> I'm
+        <p class="Whitespace-pre text-3xl"> I'm
           <a href="" class="typewrite flex-col" data-period="1000" data-type='[ " Tuan", " Tony", " excited to work with you!", " coffee dependent", " a non-stack dev", " computer vision engineer"]'>
               <span class="wrap"></span>
           </a>
         </p>
         <div>
-          <p class="flex flex-col text-3xl pt-8"> Welcome to my website.
-            <a class="text-3xl resume" href="https://www.overleaf.com/read/mstxpshyyhjp">Check out my resume</a>
-            <a class="text-3xl Links" href="https://github.com/tuanmtran"> GitHub </a>
-            <a class="text-3xl Links" href="https://www.linkedin.com/in/tuan-m-tran/"> Linkedin</a>
+          <p class="flex flex-col text-3xl pt-6"> Welcome to my website.
+            <a class="text-2xl resume" href="https://www.overleaf.com/read/mstxpshyyhjp">Check out my resume</a>
+            <a class="text-2xl Links" href="https://github.com/tuanmtran"> GitHub </a>
+            <a class="text-2xl Links" href="https://www.linkedin.com/in/tuan-m-tran/"> Linkedin</a>
           </p>
         </div>
       </div>

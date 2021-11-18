@@ -15,9 +15,8 @@ class App extends Component {
                 <div class="sticky top-0 z-40">
                     <NavbarPage></NavbarPage>
                 </div>
-
-                <div> 
-                    <HeroSection></HeroSection>
+                <HeroSection></HeroSection> 
+                <div class ="container mx-auto py-64"> 
                     <AboutMe></AboutMe>
                     <Current></Current>
                     <PastBox></PastBox>
