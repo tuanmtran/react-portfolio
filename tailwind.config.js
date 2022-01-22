@@ -6,7 +6,7 @@ module.exports = {
   purge: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
   theme: {
     fontFamily: {
-      sans: ['Roboto', 'sans-serif']
+      roboto: ['Roboto']
     },
     extend: {
       animation: {

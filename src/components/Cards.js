@@ -5,12 +5,11 @@ export const CardPage = () => (
         <Card>
           
           <CardBody>
-            <CardTitle className="text-lg">Lamborghini</CardTitle>
+            <CardTitle className="text-lg">React Portfolio</CardTitle>
             <CardText>
-              Joe made the sugar cookies; Susan decorated them. When motorists
-              sped in and out of traffic.
+              A React application built from JavaScript, Tailwind CSS and hosted using Github. This served as an digital portfolio for showcasing projects as well as interests.
             </CardText>
-            <a className="text-indigo-500 inline-flex items-center mt-4 cursor-pointer">
+            <a className="text-indigo-500 inline-flex items-center mt-4 cursor-pointer" href="https://www.github.com">
               View Details
               <ArrowIcon />
             </a>
@@ -20,12 +19,13 @@ export const CardPage = () => (
       <div className="w-full md:w-4/12 mb-6 md:mb-0 md:p-3">
         <Card>
           <CardBody>
-            <CardTitle className="text-lg">Bugatti</CardTitle>
+            <CardTitle className="text-lg">Wrist Watch</CardTitle>
             <CardText>
-              Joe made the sugar cookies; Susan decorated them. When motorists
-              sped in and out of traffic.
+              WristWatch is a program that tracks your dominant hand using webcam and makes sure that your wrist is straight
+              at all times. If a bending of the wrist is decteted for a prolonged period of time, WristWatch would push a notification
+              reminding the user to straighten their wrist. 
             </CardText>
-            <a className="text-indigo-500 inline-flex items-center mt-4 cursor-pointer">
+            <a className="text-indigo-500 inline-flex items-center mt-4 cursor-pointer" href="https://github.com/AWaffleInc/WristWatch">
               View Details
               <ArrowIcon />
             </a>
