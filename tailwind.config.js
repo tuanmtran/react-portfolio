@@ -82,5 +82,7 @@ module.exports = {
       textColor: ['active'],
     },
   },
-  plugins: [],
+  plugins: [require('@themesberg/flowbite/plugin')],
+  content: [
+    "./node_modules/@themesberg/flowbite/**/*.js"],
 };

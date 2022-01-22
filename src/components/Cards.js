@@ -35,7 +35,7 @@ export const CardPage = () => (
       <div className="w-full md:w-4/12 mb-6 md:mb-0 md:p-3">
         <Card>
           <CardBody>
-            <CardTitle className="text-lg">Computer</CardTitle>
+            <CardTitle className="text-lg">Trend Calendar</CardTitle>
             <CardText>
               Joe made the sugar cookies; Susan decorated them. When motorists
               sped in and out of traffic.

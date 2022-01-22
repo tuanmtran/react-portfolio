@@ -19,7 +19,6 @@ class App extends Component {
                 <div class ="container mx-auto py-64"> 
                     <AboutMe></AboutMe>
                     <Current></Current>
-                    <PastBox></PastBox>
                     <HobbiesBox></HobbiesBox>
                     <Contact></Contact>
                 </div>
