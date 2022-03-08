@@ -1,11 +1,9 @@
 import React, { Component } from 'react';
-import CardPage from './Cards';
 import HeroSection from './Hero';
-import HobbiesBox from './Hobbies';
+import Hobbies from './Hobbies';
 import AboutMe from './AboutMe';
 import { NavbarPage } from './NavBar';
 import Current from './Current';
-import PastBox from './Past';
 import Contact from './Contact';
 
 class App extends Component {
@@ -19,7 +17,7 @@ class App extends Component {
                 <div class ="container mx-auto py-64"> 
                     <AboutMe></AboutMe>
                     <Current></Current>
-                    <HobbiesBox></HobbiesBox>
+                    <Hobbies></Hobbies>
                     <Contact></Contact>
                 </div>
             </div>

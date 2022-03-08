@@ -14,16 +14,13 @@ export const NavbarPage = () => {
             <NavbarLink href="#AboutMe">About Me</NavbarLink>
           </NavbarItem>
           <NavbarItem>
-            <NavbarLink href="#Ongoing">Ongoing Projects</NavbarLink>
-          </NavbarItem>
-          <NavbarItem>
-            <NavbarLink href="#Past">Past Projects</NavbarLink>
+            <NavbarLink href="#Ongoing">Projects</NavbarLink>
           </NavbarItem>
           <NavbarItem>
             <NavbarLink href="#Hobbies">Hobbies</NavbarLink>
           </NavbarItem>
           <NavbarItem>
-            <NavbarLink href="#Contact">Contact</NavbarLink>
+            <NavbarLink href="#Contact">TL;DR</NavbarLink>
           </NavbarItem>
         </NavbarNav>
       </NavbarCollapse>

@@ -1,12 +1,15 @@
 import React from 'react';
-class HobbiesBox extends React.Component {
+import Example from './HobbiesBox';
+class Hobbies extends React.Component {
     render() {
         return (
-            <div id="Hobbies" class="box-border h-screen w-sceen">
-                <h1 class="font-Roboto text-4xl font-semibold"> My <strike>Addictions</strike> Hobbies</h1>
+            <div id="Hobbies" class="box-border pb-48 w-sceen">
+                <h1 class="font-Roboto text-6xl font-semibold"> <strike>Addictions</strike> Hobbies.</h1>
+                <Example></Example>
             </div>
         )
     }
-
 }
-export default HobbiesBox
+
+
+export default Hobbies;

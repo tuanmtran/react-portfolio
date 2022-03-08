@@ -82,7 +82,12 @@ module.exports = {
       textColor: ['active'],
     },
   },
-  plugins: [require('@themesberg/flowbite/plugin')],
+  
+  plugins: [
+    require('@themesberg/flowbite/plugin'),
+    require('@tailwindcss/aspect-ratio'),
+  ],
+
   content: [
     "./node_modules/@themesberg/flowbite/**/*.js"],
 };
