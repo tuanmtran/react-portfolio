@@ -38,7 +38,7 @@ const products = [
       name: 'DIY Projects',
       href: '#',
       price: 'If it does not exist, make it yourself',
-      imageSrc: '/static/img/diy.jpg',
+      imageSrc: '/static/img/DIY.jpg',
       imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
     },
     {
