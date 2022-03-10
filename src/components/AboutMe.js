@@ -3,12 +3,12 @@ class AboutMe extends React.Component {
     render() {
         return (
             <div id="AboutMe" class="font-Times box-border pb-96 overflow-hidden">
-                <h1 class="relative inset-x-1/4 top-16 text-6xl font-semibold">README.
-                    <p class="animate-bounce relative inset-x-36 w-6 h-3 text-xl">^</p>
-                    <p class=" relative inset-x-32 text-2xl font-semibold">about</p>
+                <h1 class="relative inset-x-1/4 top-16 text-7xl font-semibold">README.
+                    <p class="animate-bounce relative inset-x-44 w-6 h-3 text-xl">^</p>
+                    <p class=" relative inset-x-36 text-2xl font-semibold">about</p>
                 </h1>
                 <div class="box-border h-1/2 w-1/2">
-                    <p class="relative inset-y-20 inset-x-1/2 flex-auto lg:pr-16 lg:pl-16">Hi! fancy of you to find this site. 
+                    <p class="relative inset-y-20 inset-x-1/2 flex-auto lg:pr-16 lg:pl-16 text-xl">Hi! fancy of you to find this site. 
                 This is a little place where I like to showcase my works and projects, treat it as a personal vault if you will.
                 So walk around, click on things, and always hit me up!</p>
                 </div>

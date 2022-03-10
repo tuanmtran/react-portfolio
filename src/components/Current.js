@@ -3,7 +3,7 @@ class Current extends React.Component {
     render() {
         return (
             <div id="Ongoing" class="box-border pb-48 w-sceen overflow-x-hidden">
-                <h1 class="justify-start relative inset-x-1/4 md:inset-x-1/3 font-Roboto text-6xl font-semibold">Project.</h1>
+                <h1 class="justify-start relative inset-x-1/4 md:inset-x-1/3 font-Roboto text-7xl font-semibold">Project.</h1>
                 <h1 class ="relative inset-x-5"> 
                     
                 <ol class="relative border-l top-10 border-gray-200 dark:border-gray-700 pr-16 md:pr-32">                  

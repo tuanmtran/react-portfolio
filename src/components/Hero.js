@@ -4,7 +4,7 @@ class HeroSection extends React.Component {
   render() {
     return (
       
-      <div class="font-sans text-2xl sm:text-3xl md:text-4xl h-screen overflow-hidden relative flex flex-col flex-wrap justify-center items-center bg-gradient-to-t from-red-500 to-pink-400 text-white font-exo p-16">
+      <div class="font-sans text-2xl sm:text-3xl md:text-4xl h-screen overflow-hidden relative flex flex-col flex-wrap justify-center items-center bg-gradient-to-t from-blue-400 to-pink-400 text-white font-exo p-16">
         <p class="Whitespace-pre pb-6"> Hello There, </p>  
         
         <p class="Whitespace-pre text-2xl sm:text-3xl"> I'm
@@ -14,9 +14,9 @@ class HeroSection extends React.Component {
         </p>
         <div>
           <p class="flex flex-col text-xl sm:text-2xl md:text-3xl pt-6"> Welcome to my website.
-            <a class="text-xl sm:text-2xl resume" href="https://www.overleaf.com/read/mstxpshyyhjp">Check out my resume</a>
-            <a class="text-xl sm:text-2xl Links" href="https://github.com/tuanmtran"> GitHub </a>
-            <a class="text-xl sm:text-2xl Links" href="https://www.linkedin.com/in/tuan-m-tran/"> Linkedin</a>
+            <a class="text-xl sm:text-xl resume" href="https://www.overleaf.com/read/mstxpshyyhjp">Check out my resume</a>
+            <a class="text-xl sm:text-xl Links" href="https://github.com/tuanmtran"> GitHub </a>
+            <a class="text-xl sm:text-xl Links" href="https://www.linkedin.com/in/tuan-m-tran/"> Linkedin</a>
           </p>
         </div>
       </div>
