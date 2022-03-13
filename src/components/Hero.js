@@ -8,7 +8,7 @@ class HeroSection extends React.Component {
         <p class="Whitespace-pre pb-6"> Hello There, </p>  
         
         <p class="Whitespace-pre text-2xl sm:text-3xl"> I'm
-          <a href="" class="typewrite justify-center" data-period="1000" data-type='[ " Tuan", " Tony", " excited to work with you!", " coffee dependent", " a non-stack dev", " computer vision engineer"]'>
+          <a href="" class="typewrite justify-center" data-period="1000" data-type='[ " Tuan", " Tony", " excited to work with you!", " coffee dependent", " a non-stack dev", " a computer vision engineer", " Chaotic Positive!"]'>
               <span class="wrap"></span>
           </a>
         </p>

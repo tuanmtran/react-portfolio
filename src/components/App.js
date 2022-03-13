@@ -14,7 +14,7 @@ class App extends Component {
                     <NavbarPage></NavbarPage>
                 </div>
                 <HeroSection></HeroSection> 
-                <div class ="container mx-auto py-64"> 
+                <div class ="container pl-8 pr-8 mx-auto py-64"> 
                     <AboutMe></AboutMe>
                     <Current></Current>
                     <Hobbies></Hobbies>
